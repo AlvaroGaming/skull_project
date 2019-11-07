@@ -11,8 +11,8 @@
 #///////////////////////////////////////////////////////////////////////////////
 #///////////////////////////////////////////////////////////////////////////////
 intro(){
-echo "Selamat datang kak, Siapa nick kaka?" #tulisan keluar
-read nick #membaca yang ditulis
+echo "Selamat datang kak, Siapa nick kaka?" #Irsan keluar
+read nick #Irsan yang ditulis
 echo "            _,.-------.,_ "
 sleep 0.03
 echo "        ,;~'             '~;, "
